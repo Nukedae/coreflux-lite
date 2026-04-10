@@ -1,4 +1,4 @@
-##CoreFlux Lite  💡 
+## CoreFlux Lite  💡 
 
 CoreFlux Lite is an internal workflow tool that helps technicians and engineers quickly understand system and customer context without digging through fragmented ticket history.
 
@@ -13,7 +13,7 @@ Internal diagnostic details are often lost or hidden
 
 This leads to wasted time, repeated questions, and inconsistent troubleshooting.
 
-##The Solution ⚡ 
+## The Solution ⚡ 
 
 CoreFlux Lite provides a centralized context layer that allows users to:
 
